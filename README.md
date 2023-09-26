@@ -26,19 +26,18 @@
 
 ## 02-StressState 课件中的莫尔圆公式中的正负号应该反过来？
 
-<img src="./assets/莫尔圆公式.jpg" style="zoom:50%;" />
-
+![](./assets/莫尔圆公式.jpg)
 
 
 解答：
 
 从下面的三张图与上面的图对比可以看出，两者的切应力方向是相反的，所以，课件中的公式正负号并无问题。
 
-<img src="./assets/图解法1.png" style="zoom:50%;" />
+![](./assets/图解法1.png)
 
-<img src="./assets/图解法2.png" alt="Snipaste_2022-09-27_10-44-54" style="zoom:50%;" />
+![](./assets/图解法2.png)
 
-<img src="./assets/图解法3.png" alt="Snipaste_2022-09-27_10-45-19" style="zoom:50%;" />
+![](./assets/图解法3.png)
 
 >图片来源：刘鸿文《材料力学 I》第六版 7.4 节图解法
 
@@ -48,7 +47,7 @@
 
 如下图所示：
 
-<img src="./assets/切应力正负符号.jpg" />
+![](./assets/切应力正负符号.jpg)
 
 >图片来源：刘鸿文《材料力学 I》第六版，第 7 章，第几节有些忘了，应该在 7.4 节前面
 
@@ -82,7 +81,7 @@
 
 ## Week03 作业中的第三题，为什么要测 top 和 bottom 两个位置的应力应变？
 
-<img src="./assets/week03_question3.png" style="zoom: 80%;" />
+![](./assets/week03_question3.png)
 
 
 
@@ -92,7 +91,7 @@
 
 大意为：为了进一步表征，1mm 杆分为底部和顶部两部分，2mm 杆分三部分，底部、中部和顶部。这一分类很重要，因为在铜模吸铸时，由于自下而上的冷却速度降低，可能会产生异质微观结构。
 
-<img src="./assets/week03_question3_reference.jpg" style="zoom: 80%;" />
+![](./assets/week03_question3_reference.jpg)
 
 >文献来源: Acta Materialia 61(1):151-162,2013.
 >
@@ -108,7 +107,7 @@
 
 ## 广义胡克定律中的弹性刚度矩阵为什么是对称阵？
 
-<img src="./assets/弹性刚度矩阵.jpg" style="zoom:50%;" />
+![](./assets/弹性刚度矩阵.jpg)
 
 
 
@@ -116,8 +115,8 @@
 
 这个涉及到弹性力学中的知识。
 
-<img src="./assets/弹性刚度矩阵2.jpg" style="zoom:50%;" />
+![](./assets/弹性刚度矩阵2.jpg)
 
-<img src="./assets/弹性刚度矩阵3.jpg" style="zoom:50%;" />
+![](./assets/弹性刚度矩阵3.jpg)
 
 >图片来源：沈耀老师《材料强度学》课件《弹性力学》部分
