@@ -82,7 +82,7 @@
 
 ## Week03 作业中的第三题，为什么要测 top 和 bottom 两个位置的应力应变？
 
-<img src="./assets/作业\第3周作业\第3题.png" style="zoom: 80%;" />
+<img src="./assets/week03_question3.png" style="zoom: 80%;" />
 
 
 
@@ -92,7 +92,7 @@
 
 大意为：为了进一步表征，1mm 杆分为底部和顶部两部分，2mm 杆分三部分，底部、中部和顶部。这一分类很重要，因为在铜模吸铸时，由于自下而上的冷却速度降低，可能会产生异质微观结构。
 
-<img src="./assets/作业\第3周作业\原文献描述.jpg" style="zoom: 80%;" />
+<img src="./assets/week03_question3_reference.jpg" style="zoom: 80%;" />
 
 >文献来源: Acta Materialia 61(1):151-162,2013.
 >
