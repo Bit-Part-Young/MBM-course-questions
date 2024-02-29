@@ -3,7 +3,8 @@ site_description: MBM course questions
 site_url: https://seekanotherland.xyz/MBM-course-questions/
 repo_name: Bit-Part-Young/MBM-course-questions
 repo_url: https://github.com/Bit-Part-Young/MBM-course-questions/
-copyright: Copyright &copy 2023-2023
+edit_url: blob/main/docs/
+copyright: Copyright &copy 2023-2024
 
 
 theme:
